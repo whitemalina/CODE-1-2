@@ -17,6 +17,12 @@ ul {
   list-style: none;
 }
 
+.wrapper {
+  width: 1366px;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
 .mainScreen {
   background: url(../img/bg.svg) no-repeat center/cover;
   width: 100vw;
@@ -714,4 +720,3 @@ ul {
   margin-bottom: 80px;
   color: #A4A4A4;
 }
-/*# sourceMappingURL=main.css.map */
